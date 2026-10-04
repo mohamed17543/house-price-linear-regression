@@ -4,7 +4,7 @@
 A beginner-friendly Machine Learning project that predicts house sale prices using Linear Regression. Built with the Ames Housing dataset and scikit-learn. Every important step is explained in the notebook.
 
 ## Dataset
-- **File:** `data/train.csv`
+- **File:** `data/house-price.csv`
 - **Rows:** 2,051 houses
 - **Columns:** 81 (80 features + 1 target)
 - **Target:** `SalePrice`
